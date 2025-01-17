@@ -3,8 +3,6 @@
 
 - 🌱 I’m interested in **HCI, UI/UX design, cybersecurity**
 
-- 📫 Contact me at **layan_barrieshee@sfu.ca**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
