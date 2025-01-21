@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Layan</h1>
 
-- 🔭 I’m currently working on **my personal portfolio**
-- 🌱 I’m interested in **HCI, UI/UX design, cybersecurity**
+- 🔭 Keen in advancing my **skills and learning new technologies**
+- 🌱 Passionate about **human-computer interaction, UI/UX design, and cybersecurity**
+- 🖥️ Currently learning the **functional programming paradigm through Haskell**
+  
+
 
 
 
